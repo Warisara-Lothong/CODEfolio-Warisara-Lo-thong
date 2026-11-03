@@ -216,3 +216,21 @@ body {
 .detail-text {
     color: var(--answer);
 }
+
+/* ---------- Detail: หลายบล็อก ---------- */
+.detail-block {
+    padding: 2rem 0 3rem;
+    border-bottom: 1px solid var(--border);
+}
+
+.detail-block:last-of-type {
+    border-bottom: none;
+}
+
+.carousel-contain {
+    background: var(--border);
+}
+
+.carousel-contain img {
+    object-fit: contain;
+}
