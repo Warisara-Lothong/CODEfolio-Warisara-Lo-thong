@@ -220,6 +220,7 @@ body {
 /* ---------- Detail: หลายบล็อก ---------- */
 .detail-block {
     padding: 2rem 0 3rem;
+    margin-bottom: 4rem;
     border-bottom: 1px solid var(--border);
 }
 
